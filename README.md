@@ -5,3 +5,5 @@
 
 
 Rat King was built using good 'ole vanilla Javascript.
+
+Play at: https://rat-king.vercel.app/
