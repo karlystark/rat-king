@@ -1,0 +1,90 @@
+body {
+  background-color: black;
+  font-family: 'Press Start 2P', cursive;
+  /* 8-bit style font */
+  color: lime;
+  /* fluorescent green text color */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#game-container {
+  border: 2px solid #00ff00;
+  /* fluorescent green border */
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  /* semi-transparent black background */
+  max-width: 80%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#text2 {
+  margin-bottom: 2rem;
+}
+
+button {
+  background-color: lime;
+  /* fluorescent green button background */
+  color: black;
+  border: 2px solid lime;
+  /* fluorescent green button border */
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  align-self: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+body {
+  background-color: black;
+  font-family: 'Press Start 2P', cursive;
+  /* 8-bit style font */
+  color: lime;
+  /* fluorescent green text color */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#game-container {
+  border: 2px solid lime;
+  /* fluorescent green border */
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  /* semi-transparent black background */
+  max-width: 80%;
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  color: lime;
+  border: 2px solid lime;
+  /* fluorescent green button border */
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: lime;
+  /* fluorescent green button background */
+  color: black;
+}
+
+
+img {
+  width: 200px;
+  height: 200px;
+  align-self: center;
+  margin: 2rem;
+}
