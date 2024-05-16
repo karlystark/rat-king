@@ -4,9 +4,7 @@ const imageElement = document.getElementById('image');
 const choice1Element = document.getElementById('choice1');
 const choice2Element = document.getElementById('choice2');
 
-console.log("choice1Element", choice1Element);
-
-// Define your story segments and choices
+// STORYLINE
 const storySegments = [
   {
     text: ["Welcome to Rat King", "please select a choice to get started"],
